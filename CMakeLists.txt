@@ -90,3 +90,19 @@ add_test(
         ${PROJECT_BINARY_DIR}/severalAddPackage
 )
 
+add_test(
+    NAME
+        corruptedLocalPackages
+    COMMAND
+        ${CMAKE_COMMAND}
+        -DPROJECT_BINARY_DIR=${PROJECT_BINARY_DIR}
+        -DPROJECT_SOURCE_DIR=${PROJECT_SOURCE_DIR}
+        -DCMAKE_GENERATOR=${CMAKE_GENERATOR}
+        -DCMAKE_BUILD_TYPE=${CMAKE_BUILD_TYPE}
+        -DCNPM_SOURCE_ROOT=${PROJECT_SOURCE_DIR}/cnpm
+        -P
+        ${PROJECT_SOURCE_DIR}/corruptedLocalPackages/test.cmake
+    WORKING_DIRECTORY
+        ${PROJECT_BINARY_DIR}
+)
+
