@@ -1,0 +1,3 @@
+[submodule "cnpm"]
+	path = cnpm
+	url = https://github.com/rogii-com/cnpm.git
