@@ -1,0 +1,6591 @@
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.35
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        36
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_spain
+    VERSION
+        2018.6.1
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        nlohmann_json
+    VERSION
+        3.7.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.4
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_spain
+    VERSION
+        2019.3.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qtitanribbon
+    VERSION
+        5.3.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "_temp111dont_prod"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.7.4
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_english
+    VERSION
+        2018.4.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.26
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_russia
+    VERSION
+        2018.5.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.6
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_russia
+    VERSION
+        2020.2.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.7
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.10
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.35
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        37
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_china
+    VERSION
+        2018.5.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.8
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.68.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.8
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        cryptopp
+    VERSION
+        8.2.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xlt
+    VERSION
+        0.6.12
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.23
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.7
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        test_project
+    VERSION
+        0.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.7
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.35
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        37
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        7z
+    VERSION
+        9.20.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        4
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        pyminifier
+    VERSION
+        2.1.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.63
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        72
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.2.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.9
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.6.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        libxl
+    VERSION
+        3.7.2.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_china
+    VERSION
+        2019.4.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.8.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xlt
+    VERSION
+        0.6.12
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.7
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_china
+    VERSION
+        2019.3.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.2.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.8
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xtensor
+    VERSION
+        0.21.4
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.7
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.1.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.3.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        libxl
+    VERSION
+        3.7.2.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.6
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.22
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.9
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.4
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qtitanribbon
+    VERSION
+        4.18.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.7
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gemalto
+    VERSION
+        7.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.4
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xtensor
+    VERSION
+        0.21.4
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        compact_enc_det
+    VERSION
+        1.0.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        vmprotect
+    VERSION
+        3.4.0.1131
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.21
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        1.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.46
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        64
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.10
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "_896045"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        libxl
+    VERSION
+        3.7.2.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_spain
+    VERSION
+        2020.2.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.16
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.17.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qtitanribbon
+    VERSION
+        5.3.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "_temp111dont_prod"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_china
+    VERSION
+        2020.2.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_qt230817"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.4
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.1.4
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.33
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        30
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.4
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        libxl
+    VERSION
+        3.8.8.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_ss_4803"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.9
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.7.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_english
+    VERSION
+        2020.2.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.19
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        vmprotect
+    VERSION
+        3.5.0.1213
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gemalto
+    VERSION
+        7.6
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        pyminifier
+    VERSION
+        2.1.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.42
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        61
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.28
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        22
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.20
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.18
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_english
+    VERSION
+        2019.1.1
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        7
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.58
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        71
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        googlemock
+    VERSION
+        1.10.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.13
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "_66d884"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.17
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        5
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.1.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.58
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        71
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_spain
+    VERSION
+        2019.4.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.23
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        55
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.9
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        7z
+    VERSION
+        9.20.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        4
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.8
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.12
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        compact_enc_det
+    VERSION
+        1.0.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.6.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_spain
+    VERSION
+        2020.1.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.20
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        0.1.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_china
+    VERSION
+        2018.4.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.23
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.27
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.3.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        googlemock
+    VERSION
+        1.10.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        1.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        vmprotect
+    VERSION
+        3.5.0.1213
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.10
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.7.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        protobuf
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.24
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        5
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.2.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.33
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        30
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        libxl
+    VERSION
+        3.7.2.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.11
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_russia
+    VERSION
+        2018.6.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.30
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        25
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.11
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.1.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.68.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.29
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        23
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.13
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.7.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.21
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.42
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        61
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_russia
+    VERSION
+        2019.4.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.22
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "_66d884"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_russia
+    VERSION
+        2019.3.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.8
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xtensor
+    VERSION
+        0.21.4
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_english
+    VERSION
+        2019.4.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.26
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        56
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.1.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.2.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.20
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.17
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_spain
+    VERSION
+        2019.4.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.32
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        29
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_spain
+    VERSION
+        2019.3.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_china
+    VERSION
+        2018.6.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_ss_4803"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.14
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.4
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.34
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        31
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_english
+    VERSION
+        2018.6.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_spain
+    VERSION
+        2018.6.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_spain
+    VERSION
+        2020.2.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.10
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gemalto
+    VERSION
+        7.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.12
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.21
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.17
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        protobuf
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.4
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_russia
+    VERSION
+        2018.4.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.26
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        56
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.6
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.11
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.29
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        53
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.12
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xlt
+    VERSION
+        0.6.12
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.9
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xlt
+    VERSION
+        0.6.12
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_china
+    VERSION
+        2019.1.1
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.63
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        72
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qtitanribbon
+    VERSION
+        5.3.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "_temp111dont_prod"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.7.4
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.23
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        55
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.21
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xlt
+    VERSION
+        0.6.12
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.2.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.7
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_spain
+    VERSION
+        2020.1.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_russia
+    VERSION
+        2018.4.1
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.3.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.9
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.31
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        28
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_russia
+    VERSION
+        2019.3.1
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.18
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        vmprotect
+    VERSION
+        3.2.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        995
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.36
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        40
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_russia
+    VERSION
+        2019.1.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_russia
+    VERSION
+        2020.2.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.18
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gemalto
+    VERSION
+        7.6
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.27
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.8.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.1.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.18
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.19
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.30
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        52
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.16
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.20
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.68.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.2.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xtensor
+    VERSION
+        0.21.4
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.14
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_china
+    VERSION
+        2019.1.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.46
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        64
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.53
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        70
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_english
+    VERSION
+        2018.5.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        vmprotect
+    VERSION
+        3.2.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        995
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.29
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        53
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        cryptopp
+    VERSION
+        8.2.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gemalto_rte
+    VERSION
+        7.10
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.15
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.34
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        31
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.30
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        25
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.1.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.29
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        23
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xtensor
+    VERSION
+        0.21.4
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.24
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.16
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.7
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_china
+    VERSION
+        2020.1.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_english
+    VERSION
+        2018.6.1
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.9
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qtitanribbon
+    VERSION
+        4.18.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "_d96429"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_ss_4867"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.36
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        40
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.32
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        29
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        nlohmann_json
+    VERSION
+        3.7.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.4
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xtensor
+    VERSION
+        0.21.4
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.12
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.8
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.8
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.13
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        nlohmann_json
+    VERSION
+        3.7.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.68.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.14
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_spain
+    VERSION
+        2018.4.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_english
+    VERSION
+        2019.1.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_spain
+    VERSION
+        2019.1.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.30
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        52
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.1.53
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        70
+    TAG
+        "sdk18362_vsbt2019_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.1.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.8
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_ss_4867"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qtitanribbon
+    VERSION
+        4.18.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.17.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.7.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.31
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        28
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        nlohmann_json
+    VERSION
+        3.7.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_russia
+    VERSION
+        2019.4.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_english
+    VERSION
+        2019.3.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.10
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "_896045"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.1.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.35
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        37
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.6
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        nlohmann_json
+    VERSION
+        3.7.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.6
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        libxl
+    VERSION
+        3.8.8.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        1.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.1.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.15
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.7
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qtitanribbon
+    VERSION
+        4.18.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "_d96429"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.7
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.10
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.10
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_spain
+    VERSION
+        2018.4.1
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.13
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.14
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.28
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        22
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        ribbon
+    VERSION
+        4.13.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.3.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.1.4
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.16
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        1.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.10
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.7
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.11
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.2.9
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        7
+    TAG
+        "sdk18362_vsbt19_qt5.9.9"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        nlohmann_json
+    VERSION
+        3.7.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.9
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "ifort_sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        manual_russia
+    VERSION
+        2019.3.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        autogeosteering
+    VERSION
+        0.3.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        xlt
+    VERSION
+        0.6.12
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.35
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        36
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        whatisnew_english
+    VERSION
+        2020.1.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gridding
+    VERSION
+        2.5.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.7
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        resistivity
+    VERSION
+        1.0.26
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt5.9.6"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        witsml
+    VERSION
+        2.1.9
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3_qt596"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        vmprotect
+    VERSION
+        3.4.0.1131
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.12.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        compact_enc_det
+    VERSION
+        1.0.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.62.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.62.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        windowssdk
+    VERSION
+        10.0.18362.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        windowssdk
+    VERSION
+        10.0.18362.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        3
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.72.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        windowssdk
+    VERSION
+        10.0.18362.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.1.1.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        7z
+    VERSION
+        9.20.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        7z
+    VERSION
+        9.20.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        3
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.72.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        cdumplib
+    VERSION
+        1.0.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        7z
+    VERSION
+        9.20.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        clang_format
+    VERSION
+        8.0.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_mingw7.3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        msvs
+    VERSION
+        2019
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        protobuf
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.6
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.12.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        3
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.62.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        4
+    TAG
+        "python"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.0.2.15
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gtest
+    VERSION
+        1.10.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.62.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        3
+    TAG
+        "python"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        5
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.62.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.12.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        cdumplib
+    VERSION
+        1.0.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.1.1.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.62.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        cdumplib
+    VERSION
+        1.0.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        msvs
+    VERSION
+        2019
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.6.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        zlib
+    VERSION
+        1.2.8
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.6.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        shapelib
+    VERSION
+        1.3.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0_angle"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.6.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        rapidjson
+    VERSION
+        1.1.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        lua
+    VERSION
+        5.3.4
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        msvs
+    VERSION
+        2019
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.0.2.15
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.0.2.10
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.1.1.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        shapelib
+    VERSION
+        1.3.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.0.2.15
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.6.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        6
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.6.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        5
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0_angle"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        windowssdk
+    VERSION
+        10.0.18362.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        7z
+    VERSION
+        9.20.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        nsis
+    VERSION
+        2.46
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.9
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.62.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.0.2.15
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.72.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.7.4
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        msvs
+    VERSION
+        2019
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        3
+    TAG
+        "sdk14393_vs2015up3_qt590_angle"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        cdumplib
+    VERSION
+        1.0.2
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.12.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        3
+    TAG
+        "sdk14393_vs2015up3_qt590_angle"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.68.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        cdumplib
+    VERSION
+        1.0.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        windowssdk
+    VERSION
+        10.0.17763.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        zlib
+    VERSION
+        1.2.8
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        windowssdk
+    VERSION
+        10.0.18362.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gtest
+    VERSION
+        1.8.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        3
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.0.2.15
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.6.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gtest
+    VERSION
+        1.8.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        3
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        shapelib
+    VERSION
+        1.3.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        4
+    TAG
+        "sdk14393_vs2015up3_qt596_angle"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.62.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        4
+    TAG
+        "python"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        compact_enc_det
+    VERSION
+        1.0.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.12.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        3
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        windowssdk
+    VERSION
+        10.0.18362.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        cdumplib
+    VERSION
+        1.0.2
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.62.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        3
+    TAG
+        "python"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.6
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3_qt5.9.0"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.62.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.0.2.15
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.9
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.62.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.6
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.6.5
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        3
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        zlib
+    VERSION
+        1.2.8
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.6.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        3
+    TAG
+        "sdk15063_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.12.5
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.0.2.15
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.0.2.15
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        python
+    VERSION
+        3.7.4
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        shapelib
+    VERSION
+        1.3.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        clang_format
+    VERSION
+        9.0.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        lua
+    VERSION
+        5.3.4
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        shapelib
+    VERSION
+        1.3.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        gtest
+    VERSION
+        1.10.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.1.1.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        rapidjson
+    VERSION
+        1.1.0
+    ARCHITECTURE
+        anycpu
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        7z
+    VERSION
+        9.20.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        3
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.68.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.1.1.3
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        windowssdk
+    VERSION
+        10.0.18362.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        1
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        boost
+    VERSION
+        1.72.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        7z
+    VERSION
+        9.20.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        2
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.0.2.15
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        6
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        zlib
+    VERSION
+        1.2.8
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        windowssdk
+    VERSION
+        10.0.18362.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        3
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        osg
+    VERSION
+        3.4.0
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        4
+    TAG
+        "sdk14393_vs2015up3_qt596_angle"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        protobuf
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        protobuf
+    VERSION
+        2.6.1
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.6
+    ARCHITECTURE
+        amd64
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        windowssdk
+    VERSION
+        10.0.17763.0
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        ""
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.1.1.3
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        1
+    TAG
+        "sdk18362_vsbt19"
+)
+
+NPM_ADD_PACKAGE(
+    NAME
+        openssl
+    VERSION
+        1.0.2.10
+    ARCHITECTURE
+        x86
+    BUILD_NUMBER
+        0
+    TAG
+        "sdk14393_vs2015up3"
+)
+

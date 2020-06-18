@@ -106,3 +106,108 @@ add_test(
         ${PROJECT_BINARY_DIR}
 )
 
+file(
+    MAKE_DIRECTORY
+    ${PROJECT_BINARY_DIR}/version0
+)
+
+add_test(
+    NAME
+        version0
+    COMMAND
+        ${CMAKE_COMMAND}
+        -G
+        ${CMAKE_GENERATOR}
+        -DCMAKE_BUILD_TYPE=${CMAKE_BUILD_TYPE}
+        -DCNPM_SOURCE_ROOT=${PROJECT_SOURCE_DIR}/cnpm
+        ${PROJECT_SOURCE_DIR}/version0
+    WORKING_DIRECTORY
+        ${PROJECT_BINARY_DIR}/version0
+)
+
+file(
+    MAKE_DIRECTORY
+    ${PROJECT_BINARY_DIR}/version0/linux
+)
+
+add_test(
+    NAME
+        version0wellKnownLinux
+    COMMAND
+        ${CMAKE_COMMAND}
+        -G
+        ${CMAKE_GENERATOR}
+        -DCMAKE_BUILD_TYPE=${CMAKE_BUILD_TYPE}
+        -DCNPM_SOURCE_ROOT=${PROJECT_SOURCE_DIR}/cnpm
+        ${PROJECT_SOURCE_DIR}/version0/wellKnownLinux
+    WORKING_DIRECTORY
+        ${PROJECT_BINARY_DIR}/version0/linux
+)
+
+file(
+    MAKE_DIRECTORY
+    ${PROJECT_BINARY_DIR}/version0/windows
+)
+
+add_test(
+    NAME
+        version0wellKnownWindows
+    COMMAND
+        ${CMAKE_COMMAND}
+        -G
+        ${CMAKE_GENERATOR}
+        -DCMAKE_BUILD_TYPE=${CMAKE_BUILD_TYPE}
+        -DCNPM_SOURCE_ROOT=${PROJECT_SOURCE_DIR}/cnpm
+        ${PROJECT_SOURCE_DIR}/version0/wellKnownWindows
+    WORKING_DIRECTORY
+        ${PROJECT_BINARY_DIR}/version0/windows
+)
+
+file(
+    MAKE_DIRECTORY
+    ${PROJECT_BINARY_DIR}/version0/jpegLetters
+)
+
+add_test(
+    NAME
+        version0jpegLetters
+    COMMAND
+        ${CMAKE_COMMAND}
+        -G
+        ${CMAKE_GENERATOR}
+        -DCMAKE_BUILD_TYPE=${CMAKE_BUILD_TYPE}
+        -DCNPM_SOURCE_ROOT=${PROJECT_SOURCE_DIR}/cnpm
+        ${PROJECT_SOURCE_DIR}/version0/jpeg-letters
+    WORKING_DIRECTORY
+        ${PROJECT_BINARY_DIR}/version0/jpegLetters
+)
+
+file(
+    MAKE_DIRECTORY
+    ${PROJECT_BINARY_DIR}/version0/opensslLetters
+)
+
+add_test(
+    NAME
+        version0opensslLetters
+    COMMAND
+        ${CMAKE_COMMAND}
+        -G
+        ${CMAKE_GENERATOR}
+        -DCMAKE_BUILD_TYPE=${CMAKE_BUILD_TYPE}
+        -DCNPM_SOURCE_ROOT=${PROJECT_SOURCE_DIR}/cnpm
+        ${PROJECT_SOURCE_DIR}/version0/openssl-letters
+    WORKING_DIRECTORY
+        ${PROJECT_BINARY_DIR}/version0/opensslLetters
+)
+
+set_tests_properties(
+    version0jpegLetters
+    version0opensslLetters
+
+    PROPERTIES
+
+    WILL_FAIL
+    1
+)
+
