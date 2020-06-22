@@ -21,9 +21,12 @@ Future main(final List<String> args) async
     assert(args.length > 4);
 
     final currentDirectory = Directory.current;
-    deleteIfExists(Directory(currentDirectory.path + '/3rd_party'));
+    final cnpmRoot = currentDirectory.path + '/3rd_party';
+    deleteIfExists(Directory(cnpmRoot));
 
-    final process = await Process.start(args[0], [ '-G', args[1], '-DCMAKE_BUILD_TYPE=${args[2]}', '-DCNPM_SOURCE_ROOT=${args[3]}', args[4] ]);
+    final process = await Process.start(args[0],
+            [ '-G', args[1], '-DCMAKE_BUILD_TYPE=${args[2]}', '-DCNPM_SOURCE_ROOT=${args[3]}', args[4] ],
+            environment: { 'NPM_ROOT': cnpmRoot });
 
     var state = State.Initial;
     await for (var data in process.stdout.transform(utf8.decoder))

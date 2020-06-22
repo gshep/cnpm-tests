@@ -24,6 +24,11 @@ if(Dart STREQUAL "Dart-NOTFOUND")
     return()
 endif()
 
+file(
+    MAKE_DIRECTORY
+    ${PROJECT_BINARY_DIR}/test
+)
+
 add_test(
     NAME
         interruptDownloading
@@ -37,7 +42,7 @@ add_test(
         "${CMAKE_SOURCE_DIR}/cnpm"
         "${PROJECT_SOURCE_DIR}/test"
     WORKING_DIRECTORY
-        ${PROJECT_BINARY_DIR}
+        ${PROJECT_BINARY_DIR}/test
 )
 
 set_tests_properties(
