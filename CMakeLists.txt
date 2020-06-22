@@ -214,3 +214,23 @@ set_tests_properties(
 add_subdirectory(interruptDownloading)
 add_subdirectory(interruptExtracting)
 
+file(
+    MAKE_DIRECTORY
+    ${PROJECT_BINARY_DIR}/variablesOverride
+)
+
+add_test(
+    NAME
+        variablesOverride
+    COMMAND
+        ${CMAKE_COMMAND}
+        -G
+        ${CMAKE_GENERATOR}
+        -DCMAKE_BUILD_TYPE=${CMAKE_BUILD_TYPE}
+        -DCNPM_SOURCE_ROOT=${PROJECT_SOURCE_DIR}/cnpm
+        ${PROJECT_SOURCE_DIR}/variablesOverride
+    WORKING_DIRECTORY
+        ${PROJECT_BINARY_DIR}/variablesOverride
+)
+
+
