@@ -211,3 +211,5 @@ set_tests_properties(
     1
 )
 
+add_subdirectory(interruptDownloading)
+
