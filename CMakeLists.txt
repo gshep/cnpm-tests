@@ -233,4 +233,22 @@ add_test(
         ${PROJECT_BINARY_DIR}/variablesOverride
 )
 
+file(
+    MAKE_DIRECTORY
+    ${PROJECT_BINARY_DIR}/cnpm_add_package2
+)
+
+add_test(
+    NAME
+        cnpm_add_package2
+    COMMAND
+        ${CMAKE_COMMAND}
+        -G
+        ${CMAKE_GENERATOR}
+        -DCMAKE_BUILD_TYPE=${CMAKE_BUILD_TYPE}
+        -DCNPM_SOURCE_ROOT=${PROJECT_SOURCE_DIR}/cnpm
+        ${PROJECT_SOURCE_DIR}/cnpm_add_package2
+    WORKING_DIRECTORY
+        ${PROJECT_BINARY_DIR}/cnpm_add_package2
+)
 
