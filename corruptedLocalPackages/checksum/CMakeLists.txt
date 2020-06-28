@@ -9,9 +9,9 @@ project(
         NONE
 )
 
-include(${CNPM_SOURCE_ROOT}/NastyPackageManager.cmake)
+include(${CNPM_SOURCE_ROOT}/Include.cmake)
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         msvs
     VERSION
@@ -23,14 +23,14 @@ NPM_ADD_PACKAGE(
 )
 
 set(
-    NPM_ROOT
+    CNPM_ROOT
     "${PROJECT_BINARY_DIR}/3rd_party"
 )
 
 set(
-    NPM_ONLY
+    CNPM_ONLY
     1
 )
 
-NPM_PREPARE_PACKAGES()
+CNPM_PREPARE_PACKAGES()
 
