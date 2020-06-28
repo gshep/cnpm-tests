@@ -22,7 +22,7 @@ add_test(
         -G
         ${CMAKE_GENERATOR}
         "-DCMAKE_BUILD_TYPE=${CMAKE_BUILD_TYPE}"
-        "-DCNPM_ROOT=${CMAKE_SOURCE_DIR}/.."
+        "-DCNPM_SOURCE_ROOT=${PROJECT_SOURCE_DIR}/../cnpm"
         "${PROJECT_SOURCE_DIR}/test"
     WORKING_DIRECTORY
         "${PROJECT_BINARY_DIR}/test"
