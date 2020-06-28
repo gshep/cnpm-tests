@@ -9,11 +9,9 @@ project(
         NONE
 )
 
-include(
-    "${CNPM_ROOT}/NastyPackageManager.cmake"
-)
+include(${CNPM_SOURCE_ROOT}/Include.cmake)
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         Qt
     VERSION
@@ -22,7 +20,7 @@ NPM_ADD_PACKAGE(
         amd64
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         Manual
     VERSION
@@ -32,14 +30,14 @@ NPM_ADD_PACKAGE(
 )
 
 set(
-    NPM_ROOT
+    CNPM_ROOT
     "${CMAKE_SOURCE_DIR}"
 )
 
 set(
-    NPM_ONLY
+    CNPM_ONLY
     1
 )
 
-NPM_PREPARE_PACKAGES()
+CNPM_PREPARE_PACKAGES()
 
