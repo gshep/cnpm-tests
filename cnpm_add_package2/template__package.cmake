@@ -1,4 +1,4 @@
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         @NAME@
     VERSION
