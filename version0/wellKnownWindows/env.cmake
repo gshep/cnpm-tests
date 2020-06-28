@@ -1,4 +1,4 @@
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -11,7 +11,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_spain
     VERSION
@@ -24,7 +24,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -37,7 +37,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         nlohmann_json
     VERSION
@@ -50,7 +50,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -63,7 +63,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -76,7 +76,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -89,7 +89,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_spain
     VERSION
@@ -102,7 +102,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qtitanribbon
     VERSION
@@ -115,7 +115,7 @@ NPM_ADD_PACKAGE(
         "_temp111dont_prod"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -128,7 +128,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_english
     VERSION
@@ -141,7 +141,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -154,7 +154,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_russia
     VERSION
@@ -167,7 +167,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -180,7 +180,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_russia
     VERSION
@@ -193,7 +193,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -206,7 +206,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -219,7 +219,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -232,7 +232,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -245,7 +245,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -258,7 +258,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_china
     VERSION
@@ -271,7 +271,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -284,7 +284,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -297,7 +297,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -310,7 +310,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         cryptopp
     VERSION
@@ -323,7 +323,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xlt
     VERSION
@@ -336,7 +336,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -349,7 +349,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -362,7 +362,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -375,7 +375,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -388,7 +388,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         test_project
     VERSION
@@ -401,7 +401,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -414,7 +414,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -427,7 +427,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         7z
     VERSION
@@ -440,7 +440,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         pyminifier
     VERSION
@@ -453,7 +453,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -466,7 +466,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -479,7 +479,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -492,7 +492,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -505,7 +505,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -518,7 +518,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         libxl
     VERSION
@@ -531,7 +531,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -544,7 +544,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_china
     VERSION
@@ -557,7 +557,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -570,7 +570,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xlt
     VERSION
@@ -583,7 +583,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -596,7 +596,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -609,7 +609,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_china
     VERSION
@@ -622,7 +622,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -635,7 +635,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -648,7 +648,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -661,7 +661,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xtensor
     VERSION
@@ -674,7 +674,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -687,7 +687,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -700,7 +700,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -713,7 +713,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -726,7 +726,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         libxl
     VERSION
@@ -739,7 +739,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -752,7 +752,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -765,7 +765,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -778,7 +778,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -791,7 +791,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -804,7 +804,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -817,7 +817,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -830,7 +830,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qtitanribbon
     VERSION
@@ -843,7 +843,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -856,7 +856,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gemalto
     VERSION
@@ -869,7 +869,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -882,7 +882,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -895,7 +895,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xtensor
     VERSION
@@ -908,7 +908,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         compact_enc_det
     VERSION
@@ -921,7 +921,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         vmprotect
     VERSION
@@ -934,7 +934,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -947,7 +947,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -960,7 +960,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -973,7 +973,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -986,7 +986,7 @@ NPM_ADD_PACKAGE(
         "_896045"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         libxl
     VERSION
@@ -999,7 +999,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_spain
     VERSION
@@ -1012,7 +1012,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1025,7 +1025,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -1038,7 +1038,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qtitanribbon
     VERSION
@@ -1051,7 +1051,7 @@ NPM_ADD_PACKAGE(
         "_temp111dont_prod"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_china
     VERSION
@@ -1064,7 +1064,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -1077,7 +1077,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -1090,7 +1090,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_qt230817"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1103,7 +1103,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1116,7 +1116,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1129,7 +1129,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -1142,7 +1142,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         libxl
     VERSION
@@ -1155,7 +1155,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1168,7 +1168,7 @@ NPM_ADD_PACKAGE(
         "ifort_ss_4803"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -1181,7 +1181,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1194,7 +1194,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1207,7 +1207,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_english
     VERSION
@@ -1220,7 +1220,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1233,7 +1233,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1246,7 +1246,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -1259,7 +1259,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         vmprotect
     VERSION
@@ -1272,7 +1272,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gemalto
     VERSION
@@ -1285,7 +1285,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         pyminifier
     VERSION
@@ -1298,7 +1298,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -1311,7 +1311,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -1324,7 +1324,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1337,7 +1337,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1350,7 +1350,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1363,7 +1363,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1376,7 +1376,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_english
     VERSION
@@ -1389,7 +1389,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -1402,7 +1402,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1415,7 +1415,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1428,7 +1428,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         googlemock
     VERSION
@@ -1441,7 +1441,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1454,7 +1454,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1467,7 +1467,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -1480,7 +1480,7 @@ NPM_ADD_PACKAGE(
         "_66d884"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1493,7 +1493,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1506,7 +1506,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -1519,7 +1519,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1532,7 +1532,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -1545,7 +1545,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -1558,7 +1558,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1571,7 +1571,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -1584,7 +1584,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1597,7 +1597,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_spain
     VERSION
@@ -1610,7 +1610,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1623,7 +1623,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -1636,7 +1636,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         7z
     VERSION
@@ -1649,7 +1649,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -1662,7 +1662,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1675,7 +1675,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -1688,7 +1688,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1701,7 +1701,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         compact_enc_det
     VERSION
@@ -1714,7 +1714,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1727,7 +1727,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_spain
     VERSION
@@ -1740,7 +1740,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1753,7 +1753,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1766,7 +1766,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_china
     VERSION
@@ -1779,7 +1779,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -1792,7 +1792,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -1805,7 +1805,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1818,7 +1818,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1831,7 +1831,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1844,7 +1844,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         googlemock
     VERSION
@@ -1857,7 +1857,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1870,7 +1870,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -1883,7 +1883,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         vmprotect
     VERSION
@@ -1896,7 +1896,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -1909,7 +1909,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1922,7 +1922,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1935,7 +1935,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -1948,7 +1948,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -1961,7 +1961,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         protobuf
     VERSION
@@ -1974,7 +1974,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -1987,7 +1987,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -2000,7 +2000,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -2013,7 +2013,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2026,7 +2026,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         libxl
     VERSION
@@ -2039,7 +2039,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2052,7 +2052,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2065,7 +2065,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -2078,7 +2078,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_russia
     VERSION
@@ -2091,7 +2091,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2104,7 +2104,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2117,7 +2117,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2130,7 +2130,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -2143,7 +2143,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -2156,7 +2156,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2169,7 +2169,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2182,7 +2182,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2195,7 +2195,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2208,7 +2208,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2221,7 +2221,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2234,7 +2234,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_russia
     VERSION
@@ -2247,7 +2247,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2260,7 +2260,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -2273,7 +2273,7 @@ NPM_ADD_PACKAGE(
         "_66d884"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_russia
     VERSION
@@ -2286,7 +2286,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -2299,7 +2299,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xtensor
     VERSION
@@ -2312,7 +2312,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_english
     VERSION
@@ -2325,7 +2325,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2338,7 +2338,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2351,7 +2351,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -2364,7 +2364,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2377,7 +2377,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -2390,7 +2390,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -2403,7 +2403,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -2416,7 +2416,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2429,7 +2429,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2442,7 +2442,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_spain
     VERSION
@@ -2455,7 +2455,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -2468,7 +2468,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -2481,7 +2481,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -2494,7 +2494,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -2507,7 +2507,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2520,7 +2520,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_spain
     VERSION
@@ -2533,7 +2533,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_china
     VERSION
@@ -2546,7 +2546,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2559,7 +2559,7 @@ NPM_ADD_PACKAGE(
         "ifort_ss_4803"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -2572,7 +2572,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2585,7 +2585,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -2598,7 +2598,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2611,7 +2611,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_english
     VERSION
@@ -2624,7 +2624,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_spain
     VERSION
@@ -2637,7 +2637,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -2650,7 +2650,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -2663,7 +2663,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_spain
     VERSION
@@ -2676,7 +2676,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2689,7 +2689,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2702,7 +2702,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gemalto
     VERSION
@@ -2715,7 +2715,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2728,7 +2728,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2741,7 +2741,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -2754,7 +2754,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2767,7 +2767,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         protobuf
     VERSION
@@ -2780,7 +2780,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -2793,7 +2793,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -2806,7 +2806,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_russia
     VERSION
@@ -2819,7 +2819,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2832,7 +2832,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2845,7 +2845,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2858,7 +2858,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2871,7 +2871,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2884,7 +2884,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2897,7 +2897,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xlt
     VERSION
@@ -2910,7 +2910,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -2923,7 +2923,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -2936,7 +2936,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xlt
     VERSION
@@ -2949,7 +2949,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_china
     VERSION
@@ -2962,7 +2962,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -2975,7 +2975,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qtitanribbon
     VERSION
@@ -2988,7 +2988,7 @@ NPM_ADD_PACKAGE(
         "_temp111dont_prod"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -3001,7 +3001,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3014,7 +3014,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -3027,7 +3027,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3040,7 +3040,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xlt
     VERSION
@@ -3053,7 +3053,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -3066,7 +3066,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3079,7 +3079,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -3092,7 +3092,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_spain
     VERSION
@@ -3105,7 +3105,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_russia
     VERSION
@@ -3118,7 +3118,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -3131,7 +3131,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3144,7 +3144,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3157,7 +3157,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_russia
     VERSION
@@ -3170,7 +3170,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3183,7 +3183,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -3196,7 +3196,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         vmprotect
     VERSION
@@ -3209,7 +3209,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3222,7 +3222,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_russia
     VERSION
@@ -3235,7 +3235,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_russia
     VERSION
@@ -3248,7 +3248,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3261,7 +3261,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gemalto
     VERSION
@@ -3274,7 +3274,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3287,7 +3287,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3300,7 +3300,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -3313,7 +3313,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3326,7 +3326,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3339,7 +3339,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3352,7 +3352,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3365,7 +3365,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3378,7 +3378,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3391,7 +3391,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3404,7 +3404,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -3417,7 +3417,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -3430,7 +3430,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xtensor
     VERSION
@@ -3443,7 +3443,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3456,7 +3456,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_china
     VERSION
@@ -3469,7 +3469,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -3482,7 +3482,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3495,7 +3495,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3508,7 +3508,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3521,7 +3521,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_english
     VERSION
@@ -3534,7 +3534,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         vmprotect
     VERSION
@@ -3547,7 +3547,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3560,7 +3560,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -3573,7 +3573,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         cryptopp
     VERSION
@@ -3586,7 +3586,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gemalto_rte
     VERSION
@@ -3599,7 +3599,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3612,7 +3612,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3625,7 +3625,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3638,7 +3638,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3651,7 +3651,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3664,7 +3664,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3677,7 +3677,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3690,7 +3690,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3703,7 +3703,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xtensor
     VERSION
@@ -3716,7 +3716,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3729,7 +3729,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3742,7 +3742,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3755,7 +3755,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -3768,7 +3768,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_china
     VERSION
@@ -3781,7 +3781,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_english
     VERSION
@@ -3794,7 +3794,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3807,7 +3807,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qtitanribbon
     VERSION
@@ -3820,7 +3820,7 @@ NPM_ADD_PACKAGE(
         "_d96429"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3833,7 +3833,7 @@ NPM_ADD_PACKAGE(
         "ifort_ss_4867"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3846,7 +3846,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -3859,7 +3859,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         nlohmann_json
     VERSION
@@ -3872,7 +3872,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -3885,7 +3885,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -3898,7 +3898,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xtensor
     VERSION
@@ -3911,7 +3911,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3924,7 +3924,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3937,7 +3937,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3950,7 +3950,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3963,7 +3963,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -3976,7 +3976,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -3989,7 +3989,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         nlohmann_json
     VERSION
@@ -4002,7 +4002,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -4015,7 +4015,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4028,7 +4028,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4041,7 +4041,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4054,7 +4054,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_spain
     VERSION
@@ -4067,7 +4067,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_english
     VERSION
@@ -4080,7 +4080,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_spain
     VERSION
@@ -4093,7 +4093,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4106,7 +4106,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4119,7 +4119,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt2019_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4132,7 +4132,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4145,7 +4145,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4158,7 +4158,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -4171,7 +4171,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4184,7 +4184,7 @@ NPM_ADD_PACKAGE(
         "ifort_ss_4867"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qtitanribbon
     VERSION
@@ -4197,7 +4197,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4210,7 +4210,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -4223,7 +4223,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4236,7 +4236,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4249,7 +4249,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         nlohmann_json
     VERSION
@@ -4262,7 +4262,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_russia
     VERSION
@@ -4275,7 +4275,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_english
     VERSION
@@ -4288,7 +4288,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4301,7 +4301,7 @@ NPM_ADD_PACKAGE(
         "_896045"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4314,7 +4314,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4327,7 +4327,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4340,7 +4340,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         nlohmann_json
     VERSION
@@ -4353,7 +4353,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -4366,7 +4366,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         libxl
     VERSION
@@ -4379,7 +4379,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4392,7 +4392,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -4405,7 +4405,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -4418,7 +4418,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4431,7 +4431,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4444,7 +4444,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4457,7 +4457,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4470,7 +4470,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qtitanribbon
     VERSION
@@ -4483,7 +4483,7 @@ NPM_ADD_PACKAGE(
         "_d96429"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4496,7 +4496,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4509,7 +4509,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4522,7 +4522,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_spain
     VERSION
@@ -4535,7 +4535,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -4548,7 +4548,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4561,7 +4561,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4574,7 +4574,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4587,7 +4587,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4600,7 +4600,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -4613,7 +4613,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -4626,7 +4626,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4639,7 +4639,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4652,7 +4652,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4665,7 +4665,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4678,7 +4678,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4691,7 +4691,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4704,7 +4704,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4717,7 +4717,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -4730,7 +4730,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4743,7 +4743,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4756,7 +4756,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4769,7 +4769,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -4782,7 +4782,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         nlohmann_json
     VERSION
@@ -4795,7 +4795,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4808,7 +4808,7 @@ NPM_ADD_PACKAGE(
         "ifort_sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         manual_russia
     VERSION
@@ -4821,7 +4821,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -4834,7 +4834,7 @@ NPM_ADD_PACKAGE(
         "vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xlt
     VERSION
@@ -4847,7 +4847,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4860,7 +4860,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         whatisnew_english
     VERSION
@@ -4873,7 +4873,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -4886,7 +4886,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -4899,7 +4899,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -4912,7 +4912,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.6"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -4925,7 +4925,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         vmprotect
     VERSION
@@ -4938,7 +4938,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -4951,7 +4951,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         compact_enc_det
     VERSION
@@ -4964,7 +4964,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -4977,7 +4977,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -4990,7 +4990,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         windowssdk
     VERSION
@@ -5003,7 +5003,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         windowssdk
     VERSION
@@ -5016,7 +5016,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -5029,7 +5029,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         windowssdk
     VERSION
@@ -5042,7 +5042,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -5055,7 +5055,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         7z
     VERSION
@@ -5068,7 +5068,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         7z
     VERSION
@@ -5081,7 +5081,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -5094,7 +5094,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         cdumplib
     VERSION
@@ -5107,7 +5107,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         7z
     VERSION
@@ -5120,7 +5120,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         clang_format
     VERSION
@@ -5133,7 +5133,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -5146,7 +5146,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -5159,7 +5159,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_mingw7.3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         msvs
     VERSION
@@ -5172,7 +5172,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         protobuf
     VERSION
@@ -5185,7 +5185,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -5198,7 +5198,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -5211,7 +5211,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -5224,7 +5224,7 @@ NPM_ADD_PACKAGE(
         "python"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -5237,7 +5237,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -5250,7 +5250,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gtest
     VERSION
@@ -5263,7 +5263,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -5276,7 +5276,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -5289,7 +5289,7 @@ NPM_ADD_PACKAGE(
         "python"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -5302,7 +5302,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -5315,7 +5315,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -5328,7 +5328,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         cdumplib
     VERSION
@@ -5341,7 +5341,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -5354,7 +5354,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -5367,7 +5367,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         cdumplib
     VERSION
@@ -5380,7 +5380,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -5393,7 +5393,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         msvs
     VERSION
@@ -5406,7 +5406,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -5419,7 +5419,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         zlib
     VERSION
@@ -5432,7 +5432,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -5445,7 +5445,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         shapelib
     VERSION
@@ -5458,7 +5458,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -5471,7 +5471,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0_angle"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -5484,7 +5484,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -5497,7 +5497,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         rapidjson
     VERSION
@@ -5510,7 +5510,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         lua
     VERSION
@@ -5523,7 +5523,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         msvs
     VERSION
@@ -5536,7 +5536,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -5549,7 +5549,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -5562,7 +5562,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -5575,7 +5575,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         shapelib
     VERSION
@@ -5588,7 +5588,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -5601,7 +5601,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -5614,7 +5614,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -5627,7 +5627,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -5640,7 +5640,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -5653,7 +5653,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -5666,7 +5666,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0_angle"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         windowssdk
     VERSION
@@ -5679,7 +5679,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         7z
     VERSION
@@ -5692,7 +5692,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         nsis
     VERSION
@@ -5705,7 +5705,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -5718,7 +5718,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -5731,7 +5731,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -5744,7 +5744,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -5757,7 +5757,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -5770,7 +5770,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         msvs
     VERSION
@@ -5783,7 +5783,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -5796,7 +5796,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt590_angle"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         cdumplib
     VERSION
@@ -5809,7 +5809,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -5822,7 +5822,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -5835,7 +5835,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt590_angle"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -5848,7 +5848,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         cdumplib
     VERSION
@@ -5861,7 +5861,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         windowssdk
     VERSION
@@ -5874,7 +5874,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         zlib
     VERSION
@@ -5887,7 +5887,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         windowssdk
     VERSION
@@ -5900,7 +5900,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gtest
     VERSION
@@ -5913,7 +5913,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -5926,7 +5926,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -5939,7 +5939,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gtest
     VERSION
@@ -5952,7 +5952,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         shapelib
     VERSION
@@ -5965,7 +5965,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -5978,7 +5978,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596_angle"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -5991,7 +5991,7 @@ NPM_ADD_PACKAGE(
         "python"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         compact_enc_det
     VERSION
@@ -6004,7 +6004,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -6017,7 +6017,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         windowssdk
     VERSION
@@ -6030,7 +6030,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         cdumplib
     VERSION
@@ -6043,7 +6043,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -6056,7 +6056,7 @@ NPM_ADD_PACKAGE(
         "python"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -6069,7 +6069,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -6082,7 +6082,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -6095,7 +6095,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt5.9.0"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -6108,7 +6108,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -6121,7 +6121,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -6134,7 +6134,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -6147,7 +6147,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -6160,7 +6160,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -6173,7 +6173,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         zlib
     VERSION
@@ -6186,7 +6186,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -6199,7 +6199,7 @@ NPM_ADD_PACKAGE(
         "sdk15063_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -6212,7 +6212,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -6225,7 +6225,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -6238,7 +6238,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -6251,7 +6251,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         shapelib
     VERSION
@@ -6264,7 +6264,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         clang_format
     VERSION
@@ -6277,7 +6277,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         lua
     VERSION
@@ -6290,7 +6290,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         shapelib
     VERSION
@@ -6303,7 +6303,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gtest
     VERSION
@@ -6316,7 +6316,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -6329,7 +6329,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -6342,7 +6342,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         rapidjson
     VERSION
@@ -6355,7 +6355,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         7z
     VERSION
@@ -6368,7 +6368,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -6381,7 +6381,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -6394,7 +6394,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -6407,7 +6407,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         windowssdk
     VERSION
@@ -6420,7 +6420,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -6433,7 +6433,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         7z
     VERSION
@@ -6446,7 +6446,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -6459,7 +6459,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -6472,7 +6472,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         zlib
     VERSION
@@ -6485,7 +6485,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         windowssdk
     VERSION
@@ -6498,7 +6498,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -6511,7 +6511,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3_qt596_angle"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         protobuf
     VERSION
@@ -6524,7 +6524,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         protobuf
     VERSION
@@ -6537,7 +6537,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -6550,7 +6550,7 @@ NPM_ADD_PACKAGE(
         "sdk14393_vs2015up3"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         windowssdk
     VERSION
@@ -6563,7 +6563,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -6576,7 +6576,7 @@ NPM_ADD_PACKAGE(
         "sdk18362_vsbt19"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION

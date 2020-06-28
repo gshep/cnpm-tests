@@ -1,4 +1,4 @@
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         compact_enc_det
     VERSION
@@ -11,7 +11,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -24,7 +24,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -37,7 +37,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -50,7 +50,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         protobuf
     VERSION
@@ -63,7 +63,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -76,7 +76,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -89,7 +89,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         python
     VERSION
@@ -102,7 +102,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -115,7 +115,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         rapidjson
     VERSION
@@ -128,7 +128,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gtest
     VERSION
@@ -141,7 +141,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -154,7 +154,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -167,7 +167,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         osg
     VERSION
@@ -180,7 +180,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -193,7 +193,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -206,7 +206,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         protobuf
     VERSION
@@ -219,7 +219,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -232,7 +232,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         compact_enc_det
     VERSION
@@ -245,7 +245,7 @@ NPM_ADD_PACKAGE(
         "_g406291a"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -258,7 +258,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         boost
     VERSION
@@ -271,7 +271,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         shapelib
     VERSION
@@ -284,7 +284,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         rapidjson
     VERSION
@@ -297,7 +297,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -310,7 +310,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qt
     VERSION
@@ -323,7 +323,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         openssl
     VERSION
@@ -336,7 +336,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gxx_runtime
     VERSION
@@ -349,7 +349,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         cdumplib
     VERSION
@@ -362,7 +362,7 @@ NPM_ADD_PACKAGE(
         "fake"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         protobuf
     VERSION
@@ -375,7 +375,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         nlohmann_json
     VERSION
@@ -388,7 +388,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -401,7 +401,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -414,7 +414,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -427,7 +427,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -440,7 +440,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -453,7 +453,7 @@ NPM_ADD_PACKAGE(
         "_d0702d"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -466,7 +466,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -479,7 +479,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -492,7 +492,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         protobuf
     VERSION
@@ -505,7 +505,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -518,7 +518,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -531,7 +531,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -544,7 +544,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -557,7 +557,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         witsml
     VERSION
@@ -570,7 +570,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -583,7 +583,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -596,7 +596,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -609,7 +609,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -622,7 +622,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -635,7 +635,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -648,7 +648,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -661,7 +661,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         googlemock
     VERSION
@@ -674,7 +674,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -687,7 +687,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -700,7 +700,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         libxl
     VERSION
@@ -713,7 +713,7 @@ NPM_ADD_PACKAGE(
         "fake"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xlt
     VERSION
@@ -726,7 +726,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -739,7 +739,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -752,7 +752,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         gridding
     VERSION
@@ -765,7 +765,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -778,7 +778,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -791,7 +791,7 @@ NPM_ADD_PACKAGE(
         "sdk18362"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -804,7 +804,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -817,7 +817,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         autogeosteering
     VERSION
@@ -830,7 +830,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -843,7 +843,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         qtitanribbon
     VERSION
@@ -856,7 +856,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         xtensor
     VERSION
@@ -869,7 +869,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
@@ -882,7 +882,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -895,7 +895,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -908,7 +908,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -921,7 +921,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -934,7 +934,7 @@ NPM_ADD_PACKAGE(
         ""
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -947,7 +947,7 @@ NPM_ADD_PACKAGE(
         "_a38685"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         libxl
     VERSION
@@ -960,7 +960,7 @@ NPM_ADD_PACKAGE(
         "fake"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         resistivity
     VERSION
@@ -973,7 +973,7 @@ NPM_ADD_PACKAGE(
         "gxx9.2.1_qt5.9.9"
 )
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ribbon
     VERSION
