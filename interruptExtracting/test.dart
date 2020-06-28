@@ -18,7 +18,7 @@ Future main(final List<String> args) async
 
     final process = await Process.start(args[0],
             [ '-G', args[1], '-DCMAKE_BUILD_TYPE=${args[2]}', '-DCNPM_SOURCE_ROOT=${args[3]}', args[4] ],
-            environment: { 'NPM_ROOT': cnpmRoot });
+            environment: { 'CNPM_ROOT': cnpmRoot });
 
     await for (var data in process.stdout.transform(utf8.decoder))
     {
