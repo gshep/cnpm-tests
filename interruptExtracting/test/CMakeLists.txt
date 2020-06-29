@@ -9,11 +9,11 @@ project(
         NONE
 )
 
-include(${CNPM_SOURCE_ROOT}/NastyPackageManager.cmake)
+include(${CNPM_SOURCE_ROOT}/Include.cmake)
 
 include(${PROJECT_SOURCE_DIR}/../../interruptDownloading/test/packageInfo.cmake)
 
-NPM_ADD_PACKAGE(
+CNPM_ADD_PACKAGE(
     NAME
         ${PACKAGE_NAME}
     VERSION
@@ -27,11 +27,11 @@ NPM_ADD_PACKAGE(
 )
 
 set(
-    NPM_ONLY
+    CNPM_ONLY
     1
 )
 
-NPM_PREPARE_PACKAGES(
+CNPM_PREPARE_PACKAGES(
     DEFAULT_REPOSITORY_URLS
 
     "file:///${PROJECT_SOURCE_DIR}/../../interruptDownloading/test"

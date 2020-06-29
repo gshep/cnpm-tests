@@ -26,7 +26,7 @@ Future main(final List<String> args) async
 
     final process = await Process.start(args[0],
             [ '-G', args[1], '-DCMAKE_BUILD_TYPE=${args[2]}', '-DCNPM_SOURCE_ROOT=${args[3]}', args[4] ],
-            environment: { 'NPM_ROOT': cnpmRoot });
+            environment: { 'CNPM_ROOT': cnpmRoot });
 
     var state = State.Initial;
     await for (var data in process.stdout.transform(utf8.decoder))
@@ -67,7 +67,7 @@ Future main(final List<String> args) async
         }
     }
 
-    final packagePath = currentDirectory.path + '/3rd_party/boost-1.72.0-amd64-1sdk18362_vsbt19.7z';
+    final packagePath = cnpmRoot + '/boost-1.72.0-amd64-1sdk18362_vsbt19.7z';
     if (File(packagePath).existsSync())
     {
         print("'$packagePath' exists");

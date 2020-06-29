@@ -13,18 +13,25 @@ include(${CNPM_SOURCE_ROOT}/Include.cmake)
 
 CNPM_ADD_PACKAGE(
     NAME
-        msvs
+        Qt
     VERSION
-        2019
+        5.9.0
     ARCHITECTURE
         amd64
-    BUILD_NUMBER
-        1
+)
+
+CNPM_ADD_PACKAGE(
+    NAME
+        qt
+    VERSION
+        5.9.0
+    ARCHITECTURE
+        amd64
 )
 
 set(
     CNPM_ROOT
-    "${PROJECT_BINARY_DIR}/3rd_party"
+    "${PROJECT_SOURCE_DIR}"
 )
 
 set(
@@ -33,4 +40,11 @@ set(
 )
 
 CNPM_PREPARE_PACKAGES()
+
+if(CNPM_ONLY)
+    message(
+        FATAL_ERROR
+        "Unreachable. Test that CNPM_ONLY taken into account not NPM_ONLY."
+    )
+endif()
 

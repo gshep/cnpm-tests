@@ -42,7 +42,7 @@ set(
     ""
 )
 
-function(NPM_ADD_PACKAGE)
+function(CNPM_ADD_PACKAGE)
     set(
         oneValueArgs
         NAME VERSION ARCHITECTURE BUILD_NUMBER TAG

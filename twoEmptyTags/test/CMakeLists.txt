@@ -13,18 +13,25 @@ include(${CNPM_SOURCE_ROOT}/Include.cmake)
 
 CNPM_ADD_PACKAGE(
     NAME
-        msvs
+        Qt
     VERSION
-        2019
+        5.9.0
     ARCHITECTURE
         amd64
-    BUILD_NUMBER
-        1
+)
+
+CNPM_ADD_PACKAGE(
+    NAME
+        Manual
+    VERSION
+        1.0
+    ARCHITECTURE
+        AnyArch
 )
 
 set(
     CNPM_ROOT
-    "${PROJECT_BINARY_DIR}/3rd_party"
+    "${CMAKE_SOURCE_DIR}"
 )
 
 set(
