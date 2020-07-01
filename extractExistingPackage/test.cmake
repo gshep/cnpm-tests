@@ -15,7 +15,7 @@ file(
 
 file(
     COPY
-        ${PROJECT_SOURCE_DIR}/interruptDownloading/test/boost-1.72.0-amd64-1sdk18362_vsbt19.7z
+        ${PROJECT_SOURCE_DIR}/defaultUrlList/test/qt-5.9.6-amd64-4.7z
     DESTINATION
         ${PROJECT_BINARY_DIR}/extractExistingPackage/111
 )

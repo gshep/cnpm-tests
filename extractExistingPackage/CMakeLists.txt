@@ -13,15 +13,13 @@ include(${CNPM_SOURCE_ROOT}/Include.cmake)
 
 CNPM_ADD_PACKAGE(
     NAME
-        boost
+        Qt
     VERSION
-        1.72.0
+        5.9.6
     ARCHITECTURE
         amd64
     BUILD_NUMBER
-        1
-    TAG
-        "sdk18362_vsbt19"
+        4
 )
 
 set(
